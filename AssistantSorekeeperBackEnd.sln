@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AssistantSorekeeperBackEnd", "AssistantSorekeeperBackEnd\AssistantSorekeeperBackEnd.csproj", "{37000AF7-109A-4534-917D-A0CEBE499842}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AssistantSorekeeperBase", "AssistantSorekeeperBase\AssistantSorekeeperBase.csproj", "{864F7991-872D-4433-A604-9E2E35A916DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37000AF7-109A-4534-917D-A0CEBE499842}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37000AF7-109A-4534-917D-A0CEBE499842}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37000AF7-109A-4534-917D-A0CEBE499842}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37000AF7-109A-4534-917D-A0CEBE499842}.Release|Any CPU.Build.0 = Release|Any CPU
+		{864F7991-872D-4433-A604-9E2E35A916DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{864F7991-872D-4433-A604-9E2E35A916DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{864F7991-872D-4433-A604-9E2E35A916DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{864F7991-872D-4433-A604-9E2E35A916DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91ADEC2B-C7FD-4737-8C77-FB2FB5D923F4}
+	EndGlobalSection
+EndGlobal
